@@ -67,7 +67,7 @@
 
 ## CTF 成績
 
-- 2024THJCC CTF 2024 winter 成績：第 18/172 名 隊名：ping
+- 2024 THJCC CTF 2024 winter 成績：第 18/172 名 隊名：ping
 - 2024 CGGC 網路守護者挑戰賽 成績：第 27/122 名 隊名：炮灰們
 - 2024 FHSH X AIS3 Club -- CTF 挑戰賽 成績：第 6 名 隊名：孫逸平
 - 2024 AIS3 pre-exam 成績：第 174 名 隊名：孫逸平
