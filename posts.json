@@ -1,5 +1,23 @@
 [
     {
+        "title": "高中職跨校資安社團 社團交流活動舉辦紀錄與心得",
+        "link": "/?page=2025-Zeroday-c00kie-winter-event",
+        "date": "2025-03-02",
+        "description": "為了促進社員間的互動、交流及成長，於 2025 年 1 月 23 日（沒錯，遲發了一個多月 XD）在臺北市立復興高級中學舉辦社團的社團交流活動。在這篇文章中，將呈現活動籌備、活動進行以及最後的總結和反思等內容。",
+        "image": "posts/2025-Zeroday-c00kie-winter-event/image.webp",
+        "keywords": ["資安", "Cybersecurity", "世界咖啡館", "遊戲化", "交流", "post", "blog"]
+
+    },
+    {
+        "title": "快速搞懂 Wi-Fi 安全協議：WEP、WPA、WPA2、WPA3",
+        "link": "/?page=2025-wifi-security",
+        "date": "2025-03-01",
+        "description": "在連線 Wi-Fi 或設定家裡的 Wi-Fi Router 時，經常在安全協議的選項看到，可以選擇 WEP、WPA、WPA2、WPA3 等。他們分別代表了什麼？又存在著哪些差異呢？",
+        "image": "posts/2025-wifi-security/image.webp",
+        "keywords": ["Wifi", "Wifi Router", "4-way Handshake", "WEP", "WPA", "WPA2", "WPA3", "post", "blog"]
+
+    },
+    {
         "title": "擺脫 HackMD 圖片上傳 1MB 的限制：整合 Imgur API 到 MacOS 快速動作",
         "link": "/?page=2025-imgur-api-quick-action",
         "date": "2025-03-01",

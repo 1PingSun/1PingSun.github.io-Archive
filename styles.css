@@ -99,6 +99,7 @@ body {
     flex-direction: column;
     align-items: center;
     min-height: 100vh; /* 確保頁面高度至少為視窗高度 */
+    
 }
 
 nav {
@@ -409,12 +410,14 @@ p {
     margin: 0;
     line-height: 2;
     color: #303030; /* 設置內文顏色為淺色 */
+    text-wrap: wrap;
 }
 
 #posts-list h2 a {
     color: #303030; /* 設置內文顏色為淺色 */
     text-decoration: none; /* 移除底線 */
     transition: color 0.3s; /* 添加顏色變化的過渡效果 */
+    text-wrap: wrap;
 }
 
 #posts-list h2 a:hover {
