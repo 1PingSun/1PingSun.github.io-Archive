@@ -1,6 +1,6 @@
 # 高中職跨校資安社團 社團交流活動舉辦紀錄與心得
 
-![](./2025-Zeroday-c00kie-winter-event/image.webp)
+![](posts/2025-Zeroday-c00kie-winter-event/image.webp)
 
 我是教育部高中職資安教學資源與推廣中心的高中職跨校社團 ZeroDay C00kies 零日餅乾社幹部，同時也是這次活動的副召。
 
@@ -22,13 +22,13 @@
 
 本次活動希望透過安排以資安主題為主軸的世界咖啡館，使社員間能夠互相學習和交流，其討論的議題涵蓋「資安有哪些學習管道？」、「資安有哪些社群管道？」、「資安技術」、「資安防範」、「資安推廣和提倡」、「資安案例分享」等 6 項。
 
-![](./2025-Zeroday-c00kie-winter-event/image2.webp)
+![](posts/2025-Zeroday-c00kie-winter-event/image2.webp)
 
-![](./2025-Zeroday-c00kie-winter-event/image3.webp)
+![](posts/2025-Zeroday-c00kie-winter-event/image3.webp)
 
 經過 6 回合的討論後，也安排了統整及報告製作的環節，利用 30–45 分鐘的時間邀請各組參與者選定議題進行統整與分類，並製作投影片準備上台報告，最後再利用 15 分鐘左右的時間讓各組能夠上台報告分享自己的統整與想法，為活動進行一個小結尾。
 
-![](./2025-Zeroday-c00kie-winter-event/image4.webp)
+![](posts/2025-Zeroday-c00kie-winter-event/image4.webp)
 
 ## 反思：關於活動設計
 
